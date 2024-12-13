@@ -1,0 +1,28 @@
+# Ignore node_modules and build files
+node_modules/
+build/
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore IDE-specific files
+*.vscode/
+.idea/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Truffle-related files
+truffle-config.js
+truffle.js
+
+# Ignore Hardhat artifacts
+artifacts/
+cache/
+
+# Ignore Remix files
+remixd-backup/
+remixd-workspace.json
