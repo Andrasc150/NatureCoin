@@ -1,3 +1,5 @@
+# Solidity Project .gitignore
+
 # Ignore node_modules and build files
 node_modules/
 build/
